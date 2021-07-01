@@ -1,0 +1,32 @@
+.flex-container{
+background-color: wheat;
+width: 500px;
+height: 90;
+}
+
+.p{
+    font-size: 100px;
+}
+.h{
+    font-size: 80px;
+ }
+  .bt-1{
+      margin: 20px;
+      padding: 10px;
+      border-radius: 8px;
+  } 
+     
+      
+
+      .bt-2{
+          margin: 20px;
+          padding: 10px;
+      border-radius: 8px
+
+      }
+
+      .bt-3{
+          margin: 20px;
+          padding: 10px;
+      border-radius: 8px
+           }
